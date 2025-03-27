@@ -96,14 +96,11 @@ Create a `.env` file in the backend directory with:
 MODEL_PATH=backend/models/churn_model.joblib
 ```
 
-## Contributing
+## 📈 Future Improvements
+- Deploying as a web app (Flask/Django/Streamlit)
+- Incorporating deep learning models
+- Real-time customer churn monitoring
 
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+## 🏆 Industry Relevance
+- **Banks**: Reduce customer attrition, improve loyalty programs
+- **Insurance Providers**: Retain high-value clients, optimize policies
